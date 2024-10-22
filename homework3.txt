@@ -1,0 +1,16 @@
+Object-Oriented Programming 
+Week 3 Extra Practice
+
+In the UK, Easter always falls on a Sunday, but the date depends on the lunar cycle. There are various algorithms to determine when Easter falls each year. You can find some here:
+
+https://en.wikipedia.org/wiki/Date_of_Easter#Algorithms
+
+And another one here:
+
+https://www.drupal.org/project/nameday/issues/1180480
+
+In the Day class, write a method which calculates the date of Easter for the year specified in the given object, using one of these algorithms. It should return a new Day object for that date. Test it out against a calendar.
+
+
+
+
